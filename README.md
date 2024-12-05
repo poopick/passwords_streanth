@@ -38,5 +38,5 @@ To run the Password Analyzer, you need to have Python installed on your system.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yochay/passwords_streanth.git
+   git clone https://github.com/poopick/passwords_streanth.git
    
